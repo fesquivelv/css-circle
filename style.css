@@ -1,0 +1,9 @@
+div.blue {
+  background-color: blue
+}
+
+div.circle {
+  width: 200px;
+  height: 200px;
+  corner-radious: 50%;
+}
