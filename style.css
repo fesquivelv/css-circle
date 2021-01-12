@@ -3,7 +3,8 @@ div.blue {
 }
 
 div.circle {
+    
   width: 200px;
   height: 200px;
-  corner-radious: 50%;
+  border-radius: 100px;
 }
